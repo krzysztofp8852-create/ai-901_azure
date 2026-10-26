@@ -1,0 +1,13 @@
+# Sekrety i konfiguracja lokalna
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Pliki wynikowe labów
+output/
+
+# macOS
+.DS_Store
