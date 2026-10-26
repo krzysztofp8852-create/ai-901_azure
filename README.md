@@ -1,6 +1,6 @@
-# ai901-lab
+# ai-901_azure
 
-Laby do egzaminu AI-901 (Microsoft Azure AI Fundamentals). Plan zadań: `~/Projects/research/2026-10-26-ai-901-zadania-praktyczne.md`.
+Laby do egzaminu AI-901 (Microsoft Azure AI Fundamentals). Plan zadań i postęp: [PLAN.md](PLAN.md).
 
 ## Start
 
